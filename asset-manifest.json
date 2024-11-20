@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Acron_assignment/static/css/main.afe3531a.css",
+    "main.js": "/Acron_assignment/static/js/main.dea51bf8.js",
+    "static/js/453.455b3649.chunk.js": "/Acron_assignment/static/js/453.455b3649.chunk.js",
+    "index.html": "/Acron_assignment/index.html",
+    "main.afe3531a.css.map": "/Acron_assignment/static/css/main.afe3531a.css.map",
+    "main.dea51bf8.js.map": "/Acron_assignment/static/js/main.dea51bf8.js.map",
+    "453.455b3649.chunk.js.map": "/Acron_assignment/static/js/453.455b3649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe3531a.css",
+    "static/js/main.dea51bf8.js"
+  ]
+}
